@@ -1,0 +1,9 @@
+core_cm3.h:1876:26:ITM_SendChar	16	static,ignoring_inline_asm
+main.c:71:5:_write	32	static
+main.c:102:6:one_btn	16	static
+main.c:166:6:print_RxBuffer	16	static
+main.c:206:6:motion_cam_callback	16	static
+main.c:239:5:main	64	static
+main.c:323:6:SystemClock_Config	72	static
+main.c:354:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:369:6:Error_Handler	4	static
