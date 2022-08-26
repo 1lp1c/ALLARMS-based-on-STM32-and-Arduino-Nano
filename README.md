@@ -10,4 +10,6 @@
 
 Більше про бібліотеку для радіомодуля LoRa RA-02 та про його підключення до STM32 ви зможете знайти тут: https://github.com/SMotlaq/LoRa
 Для Arduino Nano використовував бібліотеку LoRa.h.
-                   
+
+![image](https://user-images.githubusercontent.com/112160327/186866496-3b6b36a7-6b0b-416a-9b0c-ec22f6f9abe1.png)
+
