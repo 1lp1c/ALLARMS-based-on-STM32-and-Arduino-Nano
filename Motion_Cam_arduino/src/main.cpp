@@ -60,11 +60,11 @@ void setup()
   //-------------------------------------------
 
   // FOR RANDOM DELAY--------------------------------------------
-  randomSeed(analogRead(A1)); // к пину A1 ничего не подключается
+  randomSeed(analogRead(A1));
   //-------------------------------------------------------------
 }
 
-// LOOP TO YE LOOP))
+// LOOP
 void loop()
 {
   if (motion_Cam_flug == true)
